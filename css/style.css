@@ -1,0 +1,74 @@
+.body{}
+
+.feature-section{
+    padding: 100px 0;
+}
+
+.container{
+    background-color: #89d88bd1;
+    overflow: hidden;
+    width: 1200px;
+    margin: 0 auto;
+} 
+.feature{
+    width: 33.33%;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.feature-content{
+    background-color: #eff9a1;
+    padding: 40px;
+    box-shadow: 4px 3px 6px 0 black;
+    }
+
+.feature-content:hover{box-shadow: -4px -3px 6px 0 black;}    
+.feature-content h3{
+    margin: 0;
+}
+.feature-content p{
+    margin-bottom: 0;
+}
+ 
+
+
+.Portfulio-section{
+    
+text-align: center;
+    
+background-color: #37923d;
+    
+padding: 100px 0;
+}
+
+.Portfulio{
+
+width: 33.33%;
+
+float: left;
+
+padding: 10px;
+
+box-sizing: border-box;
+}
+
+img:hover{ box-shadow: -4px -4px 5px darkblue; }
+ img{
+
+width: 100%;
+
+max-width: 100%;
+
+height: 202px;
+
+box-shadow: 4px 4px 5px darkblue;
+
+}
+
+
+
+h1{
+
+font-size: 50px;
+}
